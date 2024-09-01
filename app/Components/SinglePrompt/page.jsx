@@ -1,10 +1,10 @@
 
 "use client"
 
-import Branding from "./Header/Branding"
-import Header from "./Header/Header"
-import PromptLayout from "./PromptsSection/PromptLayout"
-import TipsSection from "./Tips/TipSection"
+import Branding from "./_Header/Branding"
+import Header from "./_Header/Header"
+import PromptLayout from "./_PromptsSection/PromptLayout"
+import TipsSection from "./_Tips/TipSection"
 
 function Page(){
 return(

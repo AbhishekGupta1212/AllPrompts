@@ -3,8 +3,8 @@
 import React, { useEffect, useState } from 'react';
 import axios from 'axios';
 import { useNavigate } from 'react-router-dom';
-import CategoryItem from './CategoryItem';
-import Card from '../Card';
+import CategoryItem from './_CategoryItem';
+import Card from '../_Card';
 
 const categories = [
   'All',
