@@ -1,6 +1,4 @@
 
-import Card from "./Components/_Card";
-import CategoryList from "./Components/CategoryList/CategoryList";
 import AllRoutes from "./Routes/AllRoutes";
 
 
